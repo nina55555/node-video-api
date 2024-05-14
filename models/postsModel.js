@@ -14,7 +14,11 @@ const PostsModel = mongoose.model(
       },
       imageUrl: {
         type: String,
-        required: true
+        required: false
+      },
+      videoUrl: {
+        type: String,
+        required: false
       },
       date: {
           type: Date,
