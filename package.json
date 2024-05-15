@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/nina55555/node-video-api/issues"
   },
-  "homepage": "https://github.com/nina55555/node-video-api",
+  "homepage": "https://github.com/nina55555/node-video-api#readme",
   "dependencies": {
     "body-parser": "^1.20.0",
     "cors": "^2.8.5",
